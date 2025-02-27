@@ -1,2 +1,2 @@
 # PyNEVegan
-Python implementation of R's (numerical ecology) vegan package
+**Py**thon implementation of R's (**n**umerical **e**cology) **vegan** package
